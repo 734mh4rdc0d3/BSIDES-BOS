@@ -1,0 +1,4 @@
+cyber chef automatically runs it throught the bases and magically gives the output.
+
+
+flag: flag{wow_you_hit_a_homerun_and_really_ran_the_bases_there}

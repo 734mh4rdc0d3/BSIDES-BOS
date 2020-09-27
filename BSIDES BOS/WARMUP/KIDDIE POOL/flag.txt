@@ -1,0 +1,8 @@
+looking closely we find that the photo is swirled around the center.
+
+we use the following online tool to recover it.
+https://www.photo-kako.com/en/swirl.cgi
+
+the recovered file is also given.
+
+flag: flag{whirlpool_in_a_cinch}
